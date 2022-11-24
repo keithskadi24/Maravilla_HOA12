@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE         COMMAND    CREATED      STATUS                  PORTS     NAMES
+f64f26352255   hello-world   "/hello"   2 days ago   Exited (0) 2 days ago             intelligent_dijkstra
